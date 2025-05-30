@@ -1,2 +1,0 @@
-import{a as t}from"./index-NW-49xhz.js";import{C as e,p as o,a as r,b as s,B as n,L as p,c as i}from"./Dashboard-DTANbPkE.js";import{g as l,e as m,k as u,u as c}from"./index-RfiGsmbl.js";const C=l({__name:"BarChart",props:{data:{},options:{}},setup(_){return e.register(o,r,s,n,p,i),(a,d)=>(m(),u(c(t),{data:a.data,options:a.options},null,8,["data","options"]))}});export{C as default};
-//# sourceMappingURL=BarChart-CKaQvgA9.js.map
