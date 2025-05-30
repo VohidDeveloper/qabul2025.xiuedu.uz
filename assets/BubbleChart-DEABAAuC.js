@@ -1,0 +1,2 @@
+import{B as e}from"./index-BqvMj6eq.js";import{C as n,p as s,a as p,b as r,P as i,L as l}from"./Dashboard-Dwbwkh3L.js";import{g as u,e as m,k as c,u as _}from"./index-BZ-BXCh5.js";const B=u({__name:"BubbleChart",props:{data:{},options:{}},setup(a){n.register(s,p,r,i,l);const t=a;return(o,d)=>(m(),c(_(e),{data:t.data,options:o.options},null,8,["data","options"]))}});export{B as default};
+//# sourceMappingURL=BubbleChart-DEABAAuC.js.map
