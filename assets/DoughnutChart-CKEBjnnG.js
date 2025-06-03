@@ -1,2 +1,0 @@
-import{D as e}from"./index-Bs-0dVVs.js";import{C as n,p as s,a as r,b as p,A as i,c as u}from"./Dashboard--QdZaESI.js";import{g as l,e as c,k as m,u as g}from"./index-DDKPXvi8.js";const C=l({__name:"DoughnutChart",props:{data:{},options:{}},setup(t){n.register(s,r,p,i,u);const a=t;return(o,_)=>(c(),m(g(e),{data:a.data,options:o.options},null,8,["data","options"]))}});export{C as default};
-//# sourceMappingURL=DoughnutChart-CKEBjnnG.js.map

@@ -1,2 +1,0 @@
-import{P as e}from"./index-Bs-0dVVs.js";import{C as s,p as n,a as r,b as p,A as i,c as l}from"./Dashboard--QdZaESI.js";import{g as c,e as m,k as u,u as _}from"./index-DDKPXvi8.js";const h=c({__name:"PieChart",props:{data:{},options:{}},setup(a){s.register(n,r,p,i,l);const t=a;return(o,d)=>(m(),u(_(e),{data:t.data,options:o.options},null,8,["data","options"]))}});export{h as default};
-//# sourceMappingURL=PieChart-Cp2PfISR.js.map
