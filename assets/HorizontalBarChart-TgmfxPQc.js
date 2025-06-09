@@ -1,0 +1,2 @@
+import{a as r}from"./index-BDkk_G45.js";import{C as n,p as s,a as i,b as p,B as l,L as c,c as m}from"./Dashboard-C-fp8VPP.js";import{k as d,h as u,p as _,u as f}from"./index-COW6RPyt.js";const b=d({__name:"HorizontalBarChart",props:{data:{},options:{}},setup(a){n.register(s,i,p,l,c,m);const t={indexAxis:"y",elements:{bar:{borderWidth:1}}},o=a;return(e,B)=>(u(),_(f(r),{data:o.data,options:{...e.options,...t}},null,8,["data","options"]))}});export{b as default};
+//# sourceMappingURL=HorizontalBarChart-TgmfxPQc.js.map

@@ -1,0 +1,2 @@
+import{m as c,a2 as l,W as r,a3 as u,a4 as a,a5 as i}from"./index-COW6RPyt.js";const p=()=>{const e=r();return c(()=>{var o;return((o=l())==null?void 0:o._context)||(e==null?void 0:e.appContext)})},v=()=>{const e=p(),o=[],s=t=>{const n=u(t,e.value);return n&&o.push(n),n};return{init:t=>s(t),notify:s,close:t=>a(t),closeAll:(t=!1)=>i(t?void 0:e.value),closeAllCreatedInThisHook:()=>{o.forEach(t=>a(t))}}};export{v as u};
+//# sourceMappingURL=useToast-B-i4A3KA.js.map

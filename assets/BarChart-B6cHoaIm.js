@@ -1,0 +1,2 @@
+import{a as t}from"./index-BDkk_G45.js";import{C as o,p as e,a as r,b as s,B as n,L as p,c as i}from"./Dashboard-C-fp8VPP.js";import{k as l,h as m,p as u,u as c}from"./index-COW6RPyt.js";const C=l({__name:"BarChart",props:{data:{},options:{}},setup(_){return o.register(e,r,s,n,p,i),(a,d)=>(m(),u(c(t),{data:a.data,options:a.options},null,8,["data","options"]))}});export{C as default};
+//# sourceMappingURL=BarChart-B6cHoaIm.js.map

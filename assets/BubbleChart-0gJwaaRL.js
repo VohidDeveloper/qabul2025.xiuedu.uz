@@ -1,0 +1,2 @@
+import{B as e}from"./index-BDkk_G45.js";import{C as n,p as s,a as p,b as r,P as i,L as l}from"./Dashboard-C-fp8VPP.js";import{k as u,h as m,p as c,u as _}from"./index-COW6RPyt.js";const B=u({__name:"BubbleChart",props:{data:{},options:{}},setup(a){n.register(s,p,r,i,l);const t=a;return(o,d)=>(m(),c(_(e),{data:t.data,options:o.options},null,8,["data","options"]))}});export{B as default};
+//# sourceMappingURL=BubbleChart-0gJwaaRL.js.map
